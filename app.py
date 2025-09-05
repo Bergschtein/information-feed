@@ -7,7 +7,7 @@ st.title("📰 My Custom Newsfeed")
 # --- Define your feeds in categories ---
 feeds = {
     "Technical Blogs": {
-        "Real Python": "https://realpython.com/atom.xml",
+        "Simon Wilson": "https://simonwillison.net/atom/everything/",
         "Towards Data Science": "https://towardsdatascience.com/feed",
         "KDnuggets": "https://www.kdnuggets.com/feed"
     },
