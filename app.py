@@ -14,7 +14,8 @@ feeds = {
     "Research (arXiv)": {
         "AI (cs.AI)": "http://export.arxiv.org/rss/cs.AI",
         "Machine Learning (cs.LG)": "http://export.arxiv.org/rss/cs.LG",
-        "Statistical ML (stat.ML)": "http://export.arxiv.org/rss/stat.ML"
+        "Statistical ML (stat.ML)": "http://export.arxiv.org/rss/stat.ML",
+        "DeepMind" : "https://deepmind.google/research/publications/",
     },
     "News": {
         "BBC": "http://feeds.bbci.co.uk/news/rss.xml",
